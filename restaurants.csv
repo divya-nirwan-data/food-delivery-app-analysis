@@ -1,0 +1,121 @@
+restaurant_id,restaurant_name,city,cuisine,rating
+Res_001,Spice Villa,Pune,Fast Food,3.3
+Res_002,Urban Tadka,Pune,North Indian,3.2
+Res_003,Food Fiesta,Mumbai,Chinese,4.3
+Res_004,Curry House,Pune,North Indian,4.5
+Res_005,Flavour Hub,Hyderabad,Chinese,3.5
+Res_006,Royal Bites,Hyderabad,Fast Food,3
+Res_007,Desi Delights,Hyderabad,North Indian,3.2
+Res_008,Tandoori Tales,Delhi,Italian,4.9
+Res_009,Hungry Point,Mumbai,Chinese,3.6
+Res_010,Masala Magic,Delhi,Italian,4.5
+Res_011,Spice Villa,Pune,North Indian,4.2
+Res_012,Urban Tadka,Delhi,Italian,3.8
+Res_013,Food Fiesta,Pune,Italian,3.4
+Res_014,Curry House,Pune,North Indian,3.2
+Res_015,Flavour Hub,Bangalore,Fast Food,4.2
+Res_016,Royal Bites,Hyderabad,Italian,4.5
+Res_017,Desi Delights,Pune,Italian,4.3
+Res_018,Tandoori Tales,Bangalore,Fast Food,4.1
+Res_019,Hungry Point,Hyderabad,Italian,3.1
+Res_020,Masala Magic,Pune,Italian,4.9
+Res_021,Spice Villa,Pune,Italian,4.6
+Res_022,Urban Tadka,Delhi,South Indian,3.6
+Res_023,Food Fiesta,Delhi,Fast Food,5
+Res_024,Curry House,Hyderabad,Italian,4.2
+Res_025,Flavour Hub,Pune,Fast Food,4.2
+Res_026,Royal Bites,Mumbai,Chinese,4.5
+Res_027,Desi Delights,Delhi,Chinese,2
+Res_028,Tandoori Tales,Hyderabad,Italian,4.3
+Res_029,Hungry Point,Pune,Fast Food,3.3
+Res_030,Masala Magic,Pune,Fast Food,3.7
+Res_031,Spice Villa,Mumbai,Fast Food,4.9
+Res_032,Urban Tadka,Hyderabad,South Indian,3.4
+Res_033,Food Fiesta,Pune,Chinese,3.7
+Res_034,Curry House,Delhi,Fast Food,3.9
+Res_035,Flavour Hub,Mumbai,Fast Food,3.9
+Res_036,Royal Bites,Hyderabad,South Indian,4.2
+Res_037,Desi Delights,Mumbai,South Indian,4.9
+Res_038,Tandoori Tales,Delhi,Fast Food,3.5
+Res_039,Hungry Point,Hyderabad,North Indian,3.2
+Res_040,Masala Magic,Mumbai,Fast Food,3.4
+Res_041,Spice Villa,Bangalore,Fast Food,4.8
+Res_042,Urban Tadka,Delhi,South Indian,4.3
+Res_043,Food Fiesta,Delhi,South Indian,3.6
+Res_044,Curry House,Delhi,Fast Food,2
+Res_045,Flavour Hub,Bangalore,Fast Food,4.7
+Res_046,Royal Bites,Bangalore,Fast Food,4.7
+Res_047,Desi Delights,Pune,South Indian,4.8
+Res_048,Tandoori Tales,Mumbai,Fast Food,3.5
+Res_049,Hungry Point,Pune,Fast Food,4.5
+Res_050,Masala Magic,Mumbai,Italian,3.9
+Res_051,Spice Villa,Bangalore,North Indian,4.7
+Res_052,Urban Tadka,Bangalore,Chinese,4.5
+Res_053,Food Fiesta,Pune,North Indian,4.6
+Res_054,Curry House,Hyderabad,Italian,4.3
+Res_055,Flavour Hub,Pune,Chinese,3.4
+Res_056,Royal Bites,Mumbai,Fast Food,4.1
+Res_057,Desi Delights,Pune,Italian,5
+Res_058,Tandoori Tales,Delhi,Fast Food,4.9
+Res_059,Hungry Point,Mumbai,South Indian,3.1
+Res_060,Masala Magic,Mumbai,Italian,3.3
+Res_061,Spice Villa,Hyderabad,South Indian,3.3
+Res_062,Urban Tadka,Bangalore,Italian,4.5
+Res_063,Food Fiesta,Mumbai,Italian,4.6
+Res_064,Curry House,Bangalore,South Indian,3.4
+Res_065,Flavour Hub,Pune,Chinese,4
+Res_066,Royal Bites,Delhi,North Indian,4.7
+Res_067,Desi Delights,Hyderabad,Fast Food,4.5
+Res_068,Tandoori Tales,Bangalore,Italian,4.1
+Res_069,Hungry Point,Mumbai,Fast Food,4.2
+Res_070,Masala Magic,Bangalore,South Indian,4
+Res_071,Spice Villa,Mumbai,Fast Food,3.6
+Res_072,Urban Tadka,Bangalore,South Indian,4.1
+Res_073,Food Fiesta,Mumbai,Fast Food,4.4
+Res_074,Curry House,Pune,North Indian,4.7
+Res_075,Flavour Hub,Mumbai,North Indian,4.3
+Res_076,Royal Bites,Mumbai,North Indian,4.5
+Res_077,Desi Delights,Delhi,North Indian,3.3
+Res_078,Tandoori Tales,Mumbai,North Indian,3.9
+Res_079,Hungry Point,Delhi,North Indian,3
+Res_080,Masala Magic,Hyderabad,South Indian,3.5
+Res_081,Spice Villa,Delhi,Italian,4.5
+Res_082,Urban Tadka,Pune,Fast Food,5
+Res_083,Food Fiesta,Delhi,North Indian,3.2
+Res_084,Curry House,Hyderabad,South Indian,3.8
+Res_085,Flavour Hub,Pune,South Indian,4.6
+Res_086,Royal Bites,Bangalore,South Indian,3.4
+Res_087,Desi Delights,Bangalore,Italian,4.1
+Res_088,Tandoori Tales,Delhi,Fast Food,4.5
+Res_089,Hungry Point,Delhi,Italian,2
+Res_090,Masala Magic,Hyderabad,Chinese,3.4
+Res_091,Spice Villa,Hyderabad,South Indian,3.7
+Res_092,Urban Tadka,Mumbai,Chinese,4.6
+Res_093,Food Fiesta,Hyderabad,North Indian,4.1
+Res_094,Curry House,Mumbai,North Indian,3
+Res_095,Flavour Hub,Pune,Italian,4.5
+Res_096,Royal Bites,Delhi,Fast Food,3.1
+Res_097,Desi Delights,Pune,Chinese,4.5
+Res_098,Tandoori Tales,Hyderabad,Fast Food,2
+Res_099,Hungry Point,Pune,Italian,4.9
+Res_100,Masala Magic,Pune,North Indian,3.7
+Res_101,Spice Villa,Pune,Fast Food,3.7
+Res_102,Urban Tadka,Hyderabad,Fast Food,3.3
+Res_103,Food Fiesta,Pune,North Indian,3.6
+Res_104,Curry House,Mumbai,Chinese,4.8
+Res_105,Flavour Hub,Hyderabad,North Indian,5
+Res_106,Royal Bites,Pune,Fast Food,3.7
+Res_107,Desi Delights,Hyderabad,Chinese,3.9
+Res_108,Tandoori Tales,Bangalore,Chinese,4.4
+Res_109,Hungry Point,Mumbai,North Indian,4.8
+Res_110,Masala Magic,Pune,Fast Food,4.2
+Res_111,Spice Villa,Bangalore,Italian,3.8
+Res_112,Urban Tadka,Bangalore,Fast Food,3.8
+Res_113,Food Fiesta,Hyderabad,South Indian,4.4
+Res_114,Curry House,Bangalore,Italian,3
+Res_115,Flavour Hub,Mumbai,Chinese,4.2
+Res_116,Royal Bites,Mumbai,Italian,3.7
+Res_117,Desi Delights,Delhi,Chinese,4.6
+Res_118,Tandoori Tales,Mumbai,Chinese,2
+Res_119,Hungry Point,Bangalore,Italian,4.2
+Res_120,Masala Magic,Mumbai,Chinese,4
